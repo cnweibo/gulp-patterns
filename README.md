@@ -175,3 +175,4 @@ $ gulp serve-dev
 - `gulp serve-build --debug-brk`
 
     Launch debugger and break on 1st line with node-inspector.
+Have been tested in node: v0.12.4,npm:2.10.1,gulp:3.9.0,bower:1.4.1
